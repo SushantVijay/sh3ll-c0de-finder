@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL of Exploit-DB shellcode section
-BASE_URL="https://www.exploit-db.com/shellcode"
+BASE_URL="https://www.exploit-db.com/shellcodes"
 
 # Function to fetch shellcode page
 fetch_shellcode_page() {
